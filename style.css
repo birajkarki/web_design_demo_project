@@ -274,3 +274,7 @@ button {
 		margin-right: 20rem;
 	}
 }
+.note {
+	font-size: 1rem;
+	text-align: center;
+}
